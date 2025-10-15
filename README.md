@@ -1,4 +1,4 @@
-# Jupyter Notesbooks
+# Jupyter Notebooks
 Introduction to Visualization Technologies in Common Use
 
 ## Setup Environment

@@ -1,3 +1,5 @@
+plotnine
+ggplot
 absl-py
 alabaster
 alembic
